@@ -1,5 +1,3 @@
-Short description
-
 Recalculates tabs indicator position on direction change in the Tab Component
 
 ## Example

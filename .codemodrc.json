@@ -6,7 +6,7 @@
   "private": false,
   "arguments": [],
   "meta": {
-    "tags": [],
+    "tags": ["radix","vue","radix-vue", "v1.9.4","bug fix","tabs indicator position" ],
     "git": "https://github.com/dfordp/radix-vue-tab-v1.9.4-update.git"
   }
 }
