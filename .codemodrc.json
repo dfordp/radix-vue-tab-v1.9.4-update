@@ -5,5 +5,8 @@
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
-  "meta": {}
+  "meta": {
+    "tags": [],
+    "git": "https://github.com/dfordp/radix-vue-tab-v1.9.4-update.git"
+  }
 }
